@@ -1,0 +1,20 @@
+##################
+
+
+# function to open czi file and extract metadata
+
+
+# 1A:NUCLEAR CHANNEL PROCESSING & QUANTIFICATION
+
+
+# 1B:LIPID DROPLET CHANNEL PROCESSING & QUANTIFICATION
+
+
+# 1C:LIPID DROPLET TO CELL NORMALIZER
+
+
+# 2A: Statistical Analysis
+
+
+# at the end I want
+# Array with n x 2 dimensions (identifier(n): [mean_flouresence_intensity, total_lipid_droplet_count])
